@@ -10,4 +10,4 @@ export default function IngredientList({ ingredients }) {
             {ingredientElements}
         </div>
     )
-} 
+}
